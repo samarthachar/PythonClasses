@@ -1,5 +1,7 @@
 lst = [10,10,10,10,10]
 
+
+# Brute Force
 def getSecondLargest(lst):
     lst.sort()
     n = len(lst)
@@ -9,3 +11,4 @@ def getSecondLargest(lst):
     return -1
 
 print(getSecondLargest(lst))
+
