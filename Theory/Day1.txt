@@ -1,0 +1,2 @@
+To convert from decimal to binary, divide by 2 continuously, and take the remainders and arrange it from the bottom
+to convert from binary to decimal, if the digit is one, then take the place value(1 = 2^0, 2=2^1, and so on...) and add it. If zero, skip it
