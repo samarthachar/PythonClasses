@@ -21,3 +21,5 @@ for i in lst:
         del lst[index]
         lst.append(0)
     index += 1
+
+print(lst)
