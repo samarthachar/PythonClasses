@@ -11,6 +11,3 @@ if  reversed_string == string_no_space:
 else:
     print("No, not a palidrome")
 
-
-
-print(22/7)
