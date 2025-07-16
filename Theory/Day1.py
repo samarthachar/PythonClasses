@@ -10,3 +10,7 @@ if  reversed_string == string_no_space:
     print("Yes, it's a palidrome")
 else:
     print("No, not a palidrome")
+
+
+
+print(22/7)

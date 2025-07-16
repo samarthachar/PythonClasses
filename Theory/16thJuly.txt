@@ -1,0 +1,9 @@
+Basic Data Types
+
+1. Char
+2. Int
+3. Float
+4. Double
+
+ASCII - American Standard Code for Information Interchange
+
