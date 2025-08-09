@@ -12,3 +12,4 @@
 # study_room = Room(10, 12)
 # print("Area of the study room is:", study_room.area())
 
+
