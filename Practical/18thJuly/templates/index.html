@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <!-- <form action="/html" method="post">
+            <input type="text" id="fname" name="fname" placeholder="First Name">
+            <input type="text" id="lname" name="lname" placeholder="Surname">
+            <button type="submit">Submit</button> 
+        </form> -->
+        <input type="text" id="fname" name="fname" placeholder="First Name">
+        <input type="text" id="lname" name="lname" placeholder="Surname">
+        <button type="submit" onclick="getFullName()">Submit</button> 
+    <script>
+        function getFullName()
+        {
+            let fname = document.getElementsByName(name="fname")[0].value
+            let lname = document.getElementsByName(name="lname")[0].value
+            document.writeln(fname + " " + lname)
+        }
+    </script>
+    </body>
+    
+</html>
